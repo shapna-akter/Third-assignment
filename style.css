@@ -1,15 +1,6 @@
 .explore-bg, .accordion-item h2 {
     background-color:#F4FAFD;
 }
-.accordion-item{
-    position: relative;
-}
-.carousel-caption{
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
-}
 .carousel-item img{
     filter: brightness(60%);
 }
