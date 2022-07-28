@@ -1,3 +1,6 @@
 .explore-bg, .accordion-item h2 {
     background-color:#F4FAFD;
 }
+.carousel-item img{
+    filter: brightness(60%);
+}
